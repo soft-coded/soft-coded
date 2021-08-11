@@ -1,9 +1,9 @@
 <h1 align="center">H👋e👋l👋l👋o👋 there. I am Shrutanten 😊.</h1>
 <h3 align="center">I go by various nicknames, but you can call me 'Shrutanten'. Yes, really.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soft-coded&label=Profile%20views&color=0e75b6&style=flat" alt="soft-coded" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soft-coded&label=Profile%20views&color=0e75b6&style=flat" alt="soft-coded" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soft-coded" alt="soft-coded" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soft-coded" alt="soft-coded" /></a> </p>
 
 - 🔭 I’m always working on **web and related stuff.** 💻
 
