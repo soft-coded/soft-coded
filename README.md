@@ -1,5 +1,5 @@
 <h1 align="center">H👋e👋l👋l👋o👋 there. I am Shrutanten 😊.</h1>
-<h3 align="center">I go by various nicknames, but you can call me 'Shrutanten'. Yes really.</h3>
+<h3 align="center">I go by various nicknames, but you can call me 'Shrutanten'. Yes, really.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soft-coded&label=Profile%20views&color=0e75b6&style=flat" alt="soft-coded" /> </p>
 
