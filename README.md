@@ -1,5 +1,5 @@
 <h1 align="center">Hello there. I am Shrutanten.</h1>
-<h3 align="center">I go by various nicknames, but you can call me 'Shrutu Baby'. Yes really.</h3>
+<h3 align="center">I go by various nicknames, but you can call me 'Shrutanten'. Yes really.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soft-coded&label=Profile%20views&color=0e75b6&style=flat" alt="soft-coded" /> </p>
 
@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **web and related stuff.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/soft-coded](https://github.com/soft-coded)
-
 - 💬 Ask me about **web and related stuff.**
 
-- 📫 How to reach me **web.related@stuff.com (jk, use my email mentioned below))**
+- ⚡ Fun fact: **I do web and related stuff.**
 
-- ⚡ Fun fact **I do web and related stuff.**
+- 📫 How to reach me: **shrutant123@gmail.com**
+
+- 👨‍💻 All of my projects are available at [my github.](https://github.com/soft-coded)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
