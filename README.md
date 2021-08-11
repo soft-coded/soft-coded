@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soft-coded&label=Profile%20views&color=0e75b6&style=flat" alt="soft-coded" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soft-coded&row=1&column=6" alt="soft-coded" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soft-coded&row=1&column=5" alt="soft-coded" /></a> </p>
 
 - 🔭 I’m always working on **web and related stuff.** 💻
 
