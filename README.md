@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I do web and related stuff.** 😇
 
-- In case you have not yet figured out, I like doing **web and related stuff.** 😤
+- 🔍 In case you have not yet figured out, I like doing **web and related stuff.** 😤
 
 - 📫 Reach me at <a href="mailto:shrutant123@gmail.com">shrutant123@gmail.com.</a>💻
 
