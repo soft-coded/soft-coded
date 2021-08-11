@@ -1,24 +1,26 @@
-<h1 align="center">Hello there. I am Shrutanten.</h1>
+<h1 align="center">H👋e👋l👋l👋o👋 there. I am Shrutanten 😊.</h1>
 <h3 align="center">I go by various nicknames, but you can call me 'Shrutanten'. Yes really.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soft-coded&label=Profile%20views&color=0e75b6&style=flat" alt="soft-coded" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soft-coded" alt="soft-coded" /></a> </p>
 
-- 🔭 I’m always working on **web and related stuff.**
+- 🔭 I’m always working on **web and related stuff.** 💻
 
-- 🌱 I’m currently learning **web and related stuff.**
+- 🌱 I’m currently learning **web and related stuff.** 🤔
 
-- 👯 I’m looking to collaborate on **web and related stuff.**
+- 👯 I’m looking to collaborate on **web and related stuff.** 😍
 
-- 🤝 I’m looking for help with **web and related stuff.**
+- 🤝 I’m looking for help with **web and related stuff.** 💖
 
-- 💬 Ask me about **web and related stuff.**
+- 💬 Ask me about **web and related stuff.** 😳
 
-- ⚡ Fun fact: **I do web and related stuff.**
+- ⚡ Fun fact: **I do web and related stuff.** 😇
 
-- 📫 How to reach me: **shrutant123@gmail.com**
+- In case you have not yet figured out, I like doing **web and related stuff.** 😤
 
+- 📫 Reach me at <a href="mailto:shrutant123@gmail.com">shrutant123@gmail.com.</a>💻
+- 
 - 👨‍💻 All of my projects are available at [my github.](https://github.com/soft-coded)
 
 <h3 align="left">Connect with me:</h3>
