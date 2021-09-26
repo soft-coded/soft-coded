@@ -19,7 +19,7 @@
 
 - 🔍 In case you have not yet figured out, I like doing **web and related stuff.** 😤
 
-- 📫 Reach me at <a href="mailto:shrutant123@gmail.com">shrutant123@gmail.com.</a>💻
+- 📫 Reach me at <a href="mailto:shrutanten.work@gmail.com">shrutanten.work@gmail.com.</a>💻
 
 - 👨‍💻 All of my projects are available at [my github.](https://github.com/soft-coded)
 
